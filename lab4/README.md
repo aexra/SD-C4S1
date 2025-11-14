@@ -12,7 +12,7 @@
 
 ![](./assets/diag-2.drawio.svg)
 
-## Задание 4
+## Задание 4https://file+.vscode-resource.vscode-cdn.net/home/aexra/source/repos/SD-C4S1/lab4/assets/diag-1.drawio.svg
 
 ### Аттестация требований
 
